@@ -107,14 +107,11 @@ operations, and drag‑and‑drop reordering.
 
     npm run dev
 
-------------------------------------------------------------------------
 
-## 📽️ Demo Video
 
-https://raw.githubusercontent.com/rohanisharma1/rohani_task_manager/refs/heads/main/assets/asests
 
 ------------------------------------------------------------------------
 
 ## 🎉 Thank You
 
-Feel free to fork, improve, and contribute!
+
